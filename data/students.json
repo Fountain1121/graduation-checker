@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "100925096",
+    "name": "Mensah Antekie Alberta",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925154",
+    "name": "Prince",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 83.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925153",
+    "name": "Robert Ghanney",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925060",
+    "name": "Dankwah Twumasiwaa Wendy",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 82.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 88.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925132",
+    "name": "Tawiah Alexina",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 86.4,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 92.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 93.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925084",
+    "name": "Kudolo Kelvin",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.9,
+    "average": 86.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 97,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 83.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925097",
+    "name": "Mensah Asare Micheal",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.7,
+    "average": 79.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925002",
+    "name": "Aboagye Antwiwaa Abena",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.9,
+    "average": 83.8,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 90.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925135",
+    "name": "Tetteh Dede Yehoda",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.9,
+    "average": 84.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 92.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925072",
+    "name": "Eshun Sylvester",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.3,
+    "average": 76.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 50,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 76.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925103",
+    "name": "Mintah Harriet",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 82.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 90.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925025",
+    "name": "Akpalu Blessing",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 80.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925098",
+    "name": "Mensah Badua Baaba",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 4,
+    "average": 83.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 80.5,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925030",
+    "name": "Ansah Offeibea Grace",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.6,
+    "average": 79.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 94,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 60,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 80.5,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925006",
+    "name": "Acquah Sally",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.2,
+    "average": 73.8,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100925080",
+    "name": "Horlonyo Venissa",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.4,
+    "average": 78.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 86.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 79.5,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925116",
+    "name": "Opoku Priscilla",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.4,
+    "average": 78.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925138",
+    "name": "Tsegah Edem Juliet",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.4,
+    "average": 79,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 90,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925076",
+    "name": "Gilbert Fiifi Forson",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 83.6,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 92.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 78.5,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925123",
+    "name": "Quarshie Alex",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.9,
+    "average": 84.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 85.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 85.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925114",
+    "name": "Okona Okyerewa Ernestina",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 82.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 87.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925100",
+    "name": "Mensah Joana",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.6,
+    "average": 79.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925010",
+    "name": "Adjani Grace Ola",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.4,
+    "average": 75.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 83.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 76.5,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925107",
+    "name": "Nunoo Caleb",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.7,
+    "average": 79.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925142",
+    "name": "Xorvi Joshua",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.7,
+    "average": 67.7,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 55,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925083",
+    "name": "Kodia Christabel",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 83.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 88.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925068",
+    "name": "Elipklim Donyo Esther",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.5,
+    "average": 79.6,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 93,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 78.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925143",
+    "name": "Yambilla Desiree Karen",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.4,
+    "average": 78.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 93,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925007",
+    "name": "Adamkie Jessica Agor",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 82.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 94,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 81.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925069",
+    "name": "Enning Precious",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.1,
+    "average": 73.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925004",
+    "name": "Aboagye Deborah",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.6,
+    "average": 79.8,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 89,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925101",
+    "name": "Mensah Samuel",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.2,
+    "average": 74.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925029",
+    "name": "Anna Ansah",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 86.8,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 97,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925046",
+    "name": "Boadi Ani Lawrence",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.1,
+    "average": 74.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 57,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925111",
+    "name": "Odofoley Ruth Nortey",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.5,
+    "average": 78.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925073",
+    "name": "Frimpong Brako Nana",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.6,
+    "average": 81.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 95,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925093",
+    "name": "Markwei Philip",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.1,
+    "average": 73.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 83.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 60,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925139",
+    "name": "Tswum Franklin",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.2,
+    "average": 75,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 78.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925037",
+    "name": "Ariama Heward",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.5,
+    "average": 67.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 53,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 54,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925119",
+    "name": "Orleans D Anowa Abena Naana",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.6,
+    "average": 80.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 87,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925146",
+    "name": "Yeboah Adwoa Nana",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.9,
+    "average": 72.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 90,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 57,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925062",
+    "name": "Darkwa Emmanuella",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.4,
+    "average": 79.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 94,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 86.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925028",
+    "name": "Ampofo Genevieve",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.8,
+    "average": 70.4,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 64,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925036",
+    "name": "Ariama Gift",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.8,
+    "average": 70.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 56,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925022",
+    "name": "Ainguah Edmund Reginald",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.7,
+    "average": 71,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 91.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 60,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 69.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925065",
+    "name": "Donkor Asamoah Amankwah Emmanuel",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.2,
+    "average": 76.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 89,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 69.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 78.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925131",
+    "name": "Sesenu Esther",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.7,
+    "average": 68,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 81.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 65,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 57,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925064",
+    "name": "David Ankrah Hope",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.8,
+    "average": 69.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 85.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 45.5,
+        "letter": "E",
+        "points": 0.5
+      }
+    ]
+  },
+  {
+    "id": "100925032",
+    "name": "Appiah Amanda",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 90,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 87,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925115",
+    "name": "Olurombi Alex Peculiar",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.5,
+    "average": 67.3,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 73.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 60.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 69.5,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925071",
+    "name": "Enyimah Kofi Armah",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.3,
+    "average": 65.6,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 52,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925016",
+    "name": "Agboyi Gifty",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.4,
+    "average": 67.7,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 89,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 44.5,
+        "letter": "F",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": "100925001",
+    "name": "Aboagye Afua",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3,
+    "average": 72.8,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925125",
+    "name": "Quist Laura",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.5,
+    "average": 81.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 88.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 94,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 67.5,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925082",
+    "name": "Kai Amoah Janet",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.3,
+    "average": 66.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 47,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 54,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925106",
+    "name": "Nsiahmensah Dominic",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.1,
+    "average": 64,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 64.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 54,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925128",
+    "name": "Sarfo Boakye Keziah",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925085",
+    "name": "Kumi Awe Herbert",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.2,
+    "average": 73.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 56.5,
+        "letter": "D+",
+        "points": 1.5
+      }
+    ]
+  },
+  {
+    "id": "100925061",
+    "name": "Dansoa Grace",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.3,
+    "average": 64.8,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 48,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 66.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925009",
+    "name": "Adjaho Selorm",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.1,
+    "average": 64,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 53,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 48,
+        "letter": "E",
+        "points": 0.5
+      }
+    ]
+  },
+  {
+    "id": "100925099",
+    "name": "Mensah Elvis",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.4,
+    "average": 65,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 60,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 51.5,
+        "letter": "D",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": "100925011",
+    "name": "Adjibolosoo Theodora",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.1,
+    "average": 63.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 43,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 64,
+        "letter": "C",
+        "points": 2
+      }
+    ]
+  },
+  {
+    "id": "100925141",
+    "name": "Wesoamo Alegewe Jessica",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.1,
+    "average": 63.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 37,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925067",
+    "name": "Ebenezer Anderson",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 2.1,
+    "average": 62.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 54,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 50.5,
+        "letter": "D",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": "100925041",
+    "name": "Asenso Serwaa Akua",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 56,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 81.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925053",
+    "name": "Bona Comfort Frimpong",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925054",
+    "name": "Bosompem Awuah Kwabena",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 1.8,
+    "average": 60.2,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 67.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 42,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 57.5,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 83,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 51,
+        "letter": "D",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "id": "100925027",
+    "name": "Amedzo James Jude",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      }
+    ]
+  },
+  {
+    "id": "100925047",
+    "name": "Boadi Joshua",
+    "status": "not_eligible",
+    "reason": "2 subjects below the 50% pass mark",
+    "gpa": 1.6,
+    "average": 58.4,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 49,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 52.5,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 74.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 40.5,
+        "letter": "F",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": "100925090",
+    "name": "Larbi Bekoe Eldad",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925079",
+    "name": "Hammond Richmond",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 67.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925129",
+    "name": "Sarkodie Joan",
+    "status": "not_eligible",
+    "reason": "2 subjects below the 50% pass mark",
+    "gpa": 1.5,
+    "average": 57.1,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 43.5,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 42,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925118",
+    "name": "Oppong Emmanuel",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925150",
+    "name": "Agbo Jonathan",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925147",
+    "name": "Yevenu Ama Freda",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 64,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925130",
+    "name": "Sarkodie Mackenzy",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 1.6,
+    "average": 56.4,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 36,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 52,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 60,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925008",
+    "name": "Adetah Esther",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 68.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925134",
+    "name": "Tekper Nuetey Stanley",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925052",
+    "name": "Bokor Adzo Nutifafaa",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 64,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925113",
+    "name": "Offei Opoku Adoma Elaine",
+    "status": "not_eligible",
+    "reason": "2 subjects below the 50% pass mark",
+    "gpa": 1.1,
+    "average": 53.7,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 53,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 47,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 64.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 43,
+        "letter": "F",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": "100925034",
+    "name": "Ariama Christopher Kwame",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 94.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 79,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 91.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925035",
+    "name": "Ariama Emmanuel",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 47,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925133",
+    "name": "Tawiah Nadia",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 92,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 82.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925070",
+    "name": "Enya Light Judith",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 65,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 61.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925031",
+    "name": "Appiah Akosua Sally Korang",
+    "status": "not_eligible",
+    "reason": "2 subjects below the 50% pass mark",
+    "gpa": 1,
+    "average": 50.9,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 59.5,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 40,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 36,
+        "letter": "F",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": "100925102",
+    "name": "Mensah Snyda",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 57.5,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 65.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925049",
+    "name": "Boakye Emmanuel",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 54,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 67,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925074",
+    "name": "Frimpong Christopher",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 46,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 55,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      }
+    ]
+  },
+  {
+    "id": "100925152",
+    "name": "Quayson Veronica",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 55,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 57.5,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 55,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925121",
+    "name": "Otoo Manuel",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 91,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925005",
+    "name": "Abroso Eugene Kwetsu",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 42,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925149",
+    "name": "Botchway Anita",
+    "status": "not_eligible",
+    "reason": "3 subjects below the 50% pass mark",
+    "gpa": 0.7,
+    "average": 47,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 32,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 46,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 57,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 41,
+        "letter": "F",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": "100925051",
+    "name": "Boateng Mercy",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 87,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 72.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925048",
+    "name": "Boafo Bevelyn",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 79.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 64,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 82,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925091",
+    "name": "Larbi Elsie",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 77,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925023",
+    "name": "Akosua Appiah Salomey Korang",
+    "status": "not_eligible",
+    "reason": "3 subjects below the 50% pass mark",
+    "gpa": 0.6,
+    "average": 44.4,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 63.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 23,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 53.5,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 43,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 39,
+        "letter": "F",
+        "points": 0
+      }
+    ]
+  },
+  {
+    "id": "100925120",
+    "name": "Osei Ampegya Philip",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 76.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 80.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925024",
+    "name": "Akotodanso E Rhoda",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 80,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925078",
+    "name": "Gyekyewaa Esther",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925151",
+    "name": "Amoasi Maame Araba Nyanfiekuwah",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 65,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925087",
+    "name": "Kwakye Thomassina Adwoa",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 52,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925021",
+    "name": "Ahlijah Kwame Mawunyo Caleb",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925137",
+    "name": "Torydery Vance",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 81.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 56,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 69.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925056",
+    "name": "Busia Abrefa Chief",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 70.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925104",
+    "name": "Mintah Kwabena",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 63.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 68,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925003",
+    "name": "Aboagye Appiah Jewelna",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 52,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 77.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925105",
+    "name": "Normesinu Enyonam",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 49,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925019",
+    "name": "Ago Joel",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 72,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 48,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 68.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925038",
+    "name": "Arku Salvania",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 62,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 63.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925122",
+    "name": "Owoo Regina Thelma",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 66,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 50,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 69.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925020",
+    "name": "Agyarko Desmond",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 59.5,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 45,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 78.5,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925110",
+    "name": "Obeng Linda",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 54,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925117",
+    "name": "Oppong Cassandra",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 58,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 68.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 55,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925127",
+    "name": "Sarafina",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 95,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 86,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925012",
+    "name": "Adoley Mary Addo",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 69,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 47,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 65,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925040",
+    "name": "Asantewaa Mary",
+    "status": "incomplete",
+    "reason": "1 subject has no recorded score, and 3 recorded scores are below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 44.5,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 30,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 42.5,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 56,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925108",
+    "name": "Nyamedor Juliet",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 84.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925095",
+    "name": "Mensah Adoma Efua Christabel",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 85,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 63,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925043",
+    "name": "Bentumah Lilian",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 57.5,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 39,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 51.5,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925075",
+    "name": "Gamese Wise Newton",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 82.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925063",
+    "name": "Darkwah Samuel",
+    "status": "incomplete",
+    "reason": "2 subjects have no recorded score, and 2 recorded scores are below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 39,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 59,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 44,
+        "letter": "F",
+        "points": 0
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925033",
+    "name": "Appiah Michael",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 64,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 74.5,
+        "letter": "B",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "id": "100925026",
+    "name": "Amanfo Festus",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 74,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 61,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925088",
+    "name": "Kyeremaa Mariam",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 76,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 51.5,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925018",
+    "name": "Aghoghorbia Onome Lawrencia",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 45,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925050",
+    "name": "Boakye Samuel",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 45,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 73,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925144",
+    "name": "Yaotse Emefa Deborah",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 53,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 61.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925109",
+    "name": "Obeng Ampomah Gideon",
+    "status": "incomplete",
+    "reason": "3 subjects have no recorded score, and 1 recorded score is below the pass mark",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 65,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 45,
+        "letter": "E",
+        "points": 0.5
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925126",
+    "name": "Sadat Issifu",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 78,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925039",
+    "name": "Aryeetey Elizabeth",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925140",
+    "name": "Wemegah Dzidzor Lordina",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 67.5,
+        "letter": "C+",
+        "points": 2.5
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925015",
+    "name": "Afful Ansah Owusu Okyere",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 64.5,
+        "letter": "C",
+        "points": 2
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925112",
+    "name": "Oduro Joshua Kwamena",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 55,
+        "letter": "D+",
+        "points": 1.5
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925124",
+    "name": "Quaye Lila",
+    "status": "incomplete",
+    "reason": "4 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 53,
+        "letter": "D",
+        "points": 1
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925013",
+    "name": "Adomako Betina",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925014",
+    "name": "Affotey Ernestina",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925042",
+    "name": "Asiesi Alberta",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925045",
+    "name": "Blenyi Prince",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925055",
+    "name": "Brown Arthur Davidson",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925057",
+    "name": "Cobbinah Ohemaa Nana",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925058",
+    "name": "Coffie Godfred",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925059",
+    "name": "Cudjoe Laura",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925066",
+    "name": "Donkor Franklina Fiona",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925086",
+    "name": "Kusi Henewaa Senior",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925089",
+    "name": "Lakupohigmanie Andy Woorbey Tobil",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925092",
+    "name": "Marfo Joseph",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925094",
+    "name": "Martey Kingsley",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925136",
+    "name": "Tettey Richmond",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925145",
+    "name": "Yayra Gborgenu Jemima",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  },
+  {
+    "id": "100925148",
+    "name": "Yiadom Boakye Grace",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  }
+]
