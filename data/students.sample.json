@@ -1,0 +1,122 @@
+[
+  {
+    "id": "100000001",
+    "name": "Ama Serwaa Mensah",
+    "status": "graduated",
+    "reason": "",
+    "gpa": 3.8,
+    "average": 82.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 84,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 81,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 88.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 71,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 88,
+        "letter": "A",
+        "points": 4
+      }
+    ]
+  },
+  {
+    "id": "100000002",
+    "name": "Kofi Boateng",
+    "status": "not_eligible",
+    "reason": "1 subject below the 50% pass mark",
+    "gpa": 2.8,
+    "average": 69.5,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": 85.5,
+        "letter": "A",
+        "points": 4
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": 70,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": 71.5,
+        "letter": "B",
+        "points": 3
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": 75,
+        "letter": "B+",
+        "points": 3.5
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": 45.5,
+        "letter": "E",
+        "points": 0.5
+      }
+    ]
+  },
+  {
+    "id": "100000003",
+    "name": "Esi Nyarko",
+    "status": "incomplete",
+    "reason": "5 subjects have no recorded score",
+    "gpa": null,
+    "average": null,
+    "subjects": [
+      {
+        "subject": "Vision & Emphasis of LCC",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Now That You Are Born Again",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Salvation, Grace and Sin",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Who is Jesus",
+        "score": null,
+        "letter": null,
+        "points": null
+      },
+      {
+        "subject": "Identity of Christ / Scripture Memory",
+        "score": null,
+        "letter": null,
+        "points": null
+      }
+    ]
+  }
+]

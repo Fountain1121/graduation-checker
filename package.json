@@ -1,0 +1,14 @@
+{
+  "name": "foundation-school-portal",
+  "version": "1.0.0",
+  "description": "Student graduation status portal for the Foundation School",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "import": "node scripts/import-excel.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" },
+  "devDependencies": { "exceljs": "^4.4.0" },
+  "license": "MIT"
+}
